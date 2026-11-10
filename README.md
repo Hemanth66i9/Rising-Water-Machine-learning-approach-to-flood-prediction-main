@@ -97,7 +97,7 @@ Rising-Water-Machine-learning-approach-to-flood-prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/DindimaN/Rising-Water-Machine-learning-approach-to-flood-prediction.git
+   git clone https://github.com/Hemanth66i9/Rising-Water-Machine-learning-approach-to-flood-prediction-main.git
    cd Rising-Water-Machine-learning-approach-to-flood-prediction
    ```
 
@@ -152,6 +152,7 @@ The Decision Tree model was ultimately selected for deployment due to its strong
 - Nerusu Dindima Sai Tejaswini
 - Pagadala Jayanth Raghavendra
 - Pathan Zaheer Khan
+- Tungana Hemanth Kumar
 
 **Under the guidance of:** Mr. Ch S Chandra Mouli, Assistant Professor, Dept. of CSE
 **Institution:** Kallam Haranadhareddy Institute of Technology (Autonomous), Guntur
